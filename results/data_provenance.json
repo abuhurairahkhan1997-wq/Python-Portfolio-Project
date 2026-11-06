@@ -1,0 +1,32 @@
+{
+  "geo_series": "GSE171555",
+  "sample_id": "GSM5227130",
+  "sample_name": "PBMC_healthy [52BA23-00]",
+  "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5227nnn/GSM5227130/suppl/",
+  "files_md5": {
+    "GSM5227130_52BA23-00_barcodes.tsv.gz": "542a03cbcc30842a55b7bc462cbb3f7f",
+    "GSM5227130_52BA23-00_features.tsv.gz": "8361c1748151e98503e656c4e2d89a48",
+    "GSM5227130_52BA23-00_matrix.mtx.gz": "9b4cadcc807f8b3c68d7cf31a9f630ca"
+  },
+  "citation": "Yu C, Littleton S, Giroux NS, et al. Mucosal-associated invariant T cell responses differ by sex in COVID-19. Med. 2021;2(6):755-772.e5. doi:10.1016/j.medj.2021.04.008",
+  "python": "3.12.3",
+  "packages": {
+    "numpy": "2.0.2",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.9",
+    "h5py": "3.16.0",
+    "anndata": "0.12.19",
+    "scanpy": "1.11.5",
+    "numba": "0.68.1",
+    "llvmlite": "0.50.0",
+    "pynndescent": "0.5.13",
+    "umap-learn": "0.5.7",
+    "igraph": "1.0.0",
+    "scikit-image": "0.25.2"
+  },
+  "cells_before_qc": 13801,
+  "cells_after_qc": 12809,
+  "leiden_clusters": 15
+}

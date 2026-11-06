@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the original data (Yu et al., 2021)."
+title: "Single-cell RNA-seq analysis of healthy human PBMCs with Scanpy (GSM5227130)"
+type: software
+authors:
+  - family-names: Pathan
+    given-names: Abuhurairah Rahman
+version: 1.0.0
+date-released: 2026-11-06
+license: MIT
+repository-code: "https://github.com/Abu1997-Pathan/pbmc-scrnaseq-scanpy-GSM5227130"
+keywords:
+  - single-cell RNA-seq
+  - scanpy
+  - PBMC
+  - bioinformatics
+references:
+  - type: article
+    title: "Mucosal-associated invariant T cell responses differ by sex in COVID-19"
+    authors:
+      - family-names: Yu
+        given-names: Chen
+      - family-names: Littleton
+        given-names: Sejiro
+      - family-names: Giroux
+        given-names: Nicholas S.
+      - name: "et al."
+    journal: Med
+    year: 2021
+    volume: 2
+    issue: 6
+    start: 755
+    end: 772
+    doi: 10.1016/j.medj.2021.04.008

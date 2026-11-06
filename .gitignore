@@ -1,0 +1,18 @@
+# Raw data (downloaded from GEO by the notebook; too large for GitHub)
+data/*
+!data/README.md
+*.tar
+*.mtx.gz
+*.tsv.gz
+
+# Large analysis outputs
+*.h5ad
+results/anndata/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

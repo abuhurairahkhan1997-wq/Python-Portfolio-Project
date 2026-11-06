@@ -1,0 +1,16 @@
+Cell type,Number of cells,Percentage of all cells,Percentage of mononuclear immune cells,Included in immune composition
+Naive CD4+ T cells,3590,28.03,29.54,True
+CD4+ memory T cells,2415,18.85,19.87,True
+CD14+ classical monocytes,2037,15.9,16.76,True
+CD8+ effector memory T cells (GZMK+),1133,8.85,9.32,True
+NK cells,1107,8.64,9.11,True
+B cells,772,6.03,6.35,True
+Naive CD8+ T cells,486,3.79,4.0,True
+FCGR3A+ non-classical monocytes,259,2.02,2.13,True
+Regulatory T cells (Tregs),243,1.9,2.0,True
+Platelets,185,1.44,,False
+Erythrocytes (RBC contamination),170,1.33,,False
+Unresolved (likely doublets),153,1.19,,False
+Low-quality cells (mito/MALAT1-high),146,1.14,,False
+Dendritic cells (cDC2 and pDC),87,0.68,0.72,True
+Haematopoietic progenitors (HSPCs),26,0.2,0.21,True

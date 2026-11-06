@@ -1,0 +1,16 @@
+# Exact versions used to produce the results in this repository.
+# Tested on Python 3.12 (also installs on Python 3.11).
+numpy==2.0.2
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+matplotlib==3.10.9
+h5py==3.16.0
+anndata==0.12.19
+scanpy==1.11.5
+numba==0.68.1
+llvmlite==0.50.0
+pynndescent==0.5.13
+umap-learn==0.5.7
+igraph==1.0.0
+scikit-image==0.25.2
